@@ -3,7 +3,7 @@
         <groupId>org.hoteia.qalingo</groupId>    
 	<artifactId>qalingo-engine</artifactId>
 	<version>0.9.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>pom</packaging>test
 	<name>qalingo-engine</name>  
 	<description>{Q} Commerce Solution Project</description>
 	<url>http://www.qalingo.com</url>
