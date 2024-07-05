@@ -1,11 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-      
-	<groupId>org.hoteia.qalingo</groupId>  
+        <groupId>org.hoteia.qalingo</groupId>    
 	<artifactId>qalingo-engine</artifactId>
 	<version>0.9.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>qalingo-engine</name>
+	<name>qalingo-engine</name>  
 	<description>{Q} Commerce Solution Project</description>
 	<url>http://www.qalingo.com</url>
 	<inceptionYear>2012-2016</inceptionYear>
